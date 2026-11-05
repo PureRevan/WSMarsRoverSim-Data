@@ -7,4 +7,4 @@ Alle PDF Dateien sind dabei sehr hochauflösend und entsprechend mehrere MB gro�
 Das Importieren der JSON Dateien erfolgt über "Importieren" Menü, welches nach dem Öffnen des Simulationsprogramms in der oberen Leiste durch das Klicken auf den "Importieren" Knopf geöffnet werden kann.
 Anschließend kann die JSON Datei ausgewählt oder in das Feld hineingezogen werden, wodurch sich eine Auswahl öffnet: Dort kann dann eingestellt werden, was importiert werden soll (die Standardeinstellungen genügen) und mit "Auswahl importieren" können die Einstellungen geladen werden.
 Dies kann, bedingt durch die erneute Generierung der 10000 Knoten, je nach lokal verfügbarer Rechenleistung einen kurzen Augenblick dauern, bevor dann der Graph geladen wird.
-Dies schließt das Importieren ab und die Simulation kann nun frei bedient werden. Die Ergebnisse für das Ausführen der Algorithmen entsprechend dann auch den in den PDFs abgebildeten, da die Graph Generierung und somit die Ergebnisse der deterministischen Algorithmen eindeutig durch die gegebenen Einstellungen reproduzierbar sind.
+Dies schließt das Importieren ab und die Simulation kann nun frei bedient werden.
